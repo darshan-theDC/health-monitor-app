@@ -1,0 +1,18 @@
+Landing Page
+   │
+   ├── Check Now ────────────────→ Health Tests Page
+   │                                │
+   │                                ├── BMI
+   │                                ├── Blood Sugar
+   │                                ├── Blood Pressure
+   │                                └── SpO2
+   │
+   └── Check & Save History ──→ Login / Signup
+                                   │
+                                   └→ Health Tests Page
+                                        │
+                                        ├── BMI
+                                        ├── Blood Sugar
+                                        ├── Blood Pressure
+                                        ├── SpO2
+                                        └── Dashboard (history + graphs)

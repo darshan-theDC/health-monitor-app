@@ -1,0 +1,18 @@
+Health-Tracking-App
+│
+├── app.py
+│
+├── pages
+│   ├── landing.py
+│   ├── login.py
+│   └── tests.py
+│
+├── services
+│   ├── database.py
+│   └── auth.py
+│
+├── utils
+│   └── conversions.py
+│
+├── .env
+└── requirements.txt
