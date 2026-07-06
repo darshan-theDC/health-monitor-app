@@ -4,7 +4,7 @@ A simple, user-friendly health monitoring system designed specifically for paren
 
 ## 💝 Project Purpose
 
-This application was created with love and dedication to my parents, who inspired this project through their daily health management routines. I observed how they diligently measure their health readings at home using various devices but often struggled to understand whether their readings were normal or concerning.
+This application was created with love and dedication to my parents, who inspired this project through their daily health management routines. I observed how they measure their health readings at home using various devices but often struggled to understand whether their readings were normal or concerning.
 
 This project aims to help parents and older adults:
 - Understand their health readings more clearly
